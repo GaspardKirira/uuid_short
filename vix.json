@@ -1,0 +1,26 @@
+{
+  "name": "uuid_short",
+  "namespace": "gk",
+  "version": "0.1.0",
+  "type": "header-only",
+  "include": "include",
+  "license": "MIT",
+  "description": "Short unique ID generator for compact identifiers in C++.",
+  "keywords": [
+    "uuid",
+    "short-id",
+    "identifier",
+    "unique-id",
+    "random-id",
+    "cpp",
+    "header-only",
+    "vix"
+  ],
+  "repository": "https://github.com/Gaspardkirira/uuid_short",
+  "authors": [
+    {
+      "name": "Gaspard Kirira",
+      "github": "Gaspardkirira"
+    }
+  ]
+}
